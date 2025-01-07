@@ -1,10 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samejima
-================================================================================================================================
-
-Computer Science graduate exploring their options, learning every day and I am interested in meeting new people as well as open source development so feel free to reach out and lets talk!
-
 *   ✉️  You can contact me at [samejimasama@gmail.com](mailto:samejimasama@gmail.com)
-*   🧠  I'm learning MySQL, Node.js, PHP, and React
 
 ### Skills 
 <p align="left">
@@ -15,11 +9,6 @@ Computer Science graduate exploring their options, learning every day and I am i
                   
 <p align="left"> <a href="https://www.dev.to/samejima" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a>  <a href="https://www.github.com/samejima-san" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/samejima-san"><img src="https://github-readme-stats.vercel.app/api?username=samejima-san&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&show_icons=true" alt="samejima-san's GitHub stats" /></a>
 
 ### Support Me
 
