@@ -1,3 +1,4 @@
-*   ✉️  You can contact me at [samejimasama@gmail.com](mailto:samejimasama@gmail.com)
+# He who conquers the left side conquers the world Chief.
 
-#Success is a flavor I have not yet tasted.
+
+..success is a flavor I have not yet tasted..
